@@ -10,6 +10,7 @@ public class Client
 	@Id
 	private String id;
 	private String token;
+	//private
 	
 	private boolean order_uploaded = false;
     private String order_uploaded_url;
